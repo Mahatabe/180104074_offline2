@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".tableActivity">
+
+
+   <TableRow
+
+       android:id="@+id/tab"
+       android:layout_marginTop="20dp"
+
+       >
+
+       <TextView
+
+
+           android:paddingLeft="10dp"
+           android:paddingRight="10dp"
+           android:text="Teacher"
+           android:textColor="@color/black"
+           android:textSize="30dp"
+           android:layout_gravity="center_horizontal"
+           android:layout_span="3"
+           android:background="@color/colorPrimary"
+           android:textStyle="bold" />
+
+   </TableRow>
+
+    <TableRow
+
+
+        android:layout_marginTop="20dp"
+
+
+        >
+
+        <TextView
+
+
+            android:paddingRight="40dp"
+            android:text="Name"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+
+        <TextView
+
+            android:text="Email"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:paddingRight="100dp"
+
+
+            />
+
+
+        <TextView
+
+
+            android:text="Contract No."
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+
+    </TableRow>
+
+
+    <TableRow
+
+        >
+
+        <TextView
+
+            android:paddingRight="10dp"
+            android:text="Mr.Zaman"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+
+        <TextView
+
+            android:text="zaman@gmail.com"
+            android:textSize="20dp"
+            android:textStyle="bold"
+
+            />
+
+
+        <TextView
+
+            android:text="0152689542"
+            android:textSize="20dp"
+
+            android:textStyle="bold"
+
+            />
+
+    </TableRow>
+
+
+
+    <TableRow
+
+        >
+
+        <TextView
+
+            android:paddingRight="10dp"
+            android:text="Mr.Karim"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+
+        <TextView
+
+            android:text="karim@gmail.com"
+            android:textSize="20dp"
+            android:textStyle="bold"
+
+            />
+
+
+        <TextView
+
+
+            android:text="0152689789"
+            android:textSize="20dp"
+
+            android:textStyle="bold" />
+
+    </TableRow>
+
+    <TableRow
+
+        >
+
+        <TextView
+
+            android:paddingRight="10dp"
+            android:text="Mrs.Selina"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+
+        <TextView
+
+            android:text="selina@gmail.com"
+            android:textSize="20dp"
+            android:textStyle="bold"
+
+            />
+
+
+        <TextView
+
+
+            android:text="0192289000"
+            android:textSize="20dp"
+
+            android:textStyle="bold" />
+
+    </TableRow>
+
+
+    <TableRow
+
+
+        android:layout_marginTop="20dp"
+
+        >
+
+        <TextView
+
+
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:text="Student"
+            android:textColor="@color/black"
+            android:textSize="30dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_span="3"
+            android:background="@color/colorPrimary"
+            android:textStyle="bold" />
+
+    </TableRow>
+
+    <TableRow
+        android:layout_marginTop="20dp"
+
+        >
+
+        <TextView
+
+
+            android:paddingRight="40dp"
+            android:text="Name"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+
+        <TextView
+
+            android:text="Email"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:paddingRight="120dp"
+
+            />
+
+
+        <TextView
+
+
+
+            android:text="Contract No."
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+    </TableRow>
+
+    <TableRow
+
+        >
+
+        <TextView
+
+            android:paddingRight="10dp"
+            android:text="Mahatabe"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+
+        <TextView
+
+            android:text="mh210@gmail.com"
+            android:textSize="20dp"
+            android:textStyle="bold"
+
+            />
+
+
+        <TextView
+
+
+            android:text="019129801"
+            android:textSize="20dp"
+
+            android:textStyle="bold" />
+
+    </TableRow>
+
+    <TableRow
+
+        >
+
+        <TextView
+
+            android:paddingRight="10dp"
+            android:text="Mostafa"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+
+        <TextView
+
+            android:text="mostafa@gmail.com"
+            android:textSize="20dp"
+            android:textStyle="bold"
+
+            />
+
+
+        <TextView
+
+
+            android:text="019128993"
+            android:textSize="20dp"
+
+            android:textStyle="bold" />
+
+    </TableRow>
+    <TableRow
+
+        >
+
+        <TextView
+
+            android:paddingRight="10dp"
+            android:text="Zahid"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+
+        <TextView
+
+            android:text="zahid16@gmail.com"
+            android:textSize="20dp"
+            android:textStyle="bold"
+
+            />
+
+
+        <TextView
+
+
+            android:text="016228950"
+            android:textSize="20dp"
+
+            android:textStyle="bold" />
+
+    </TableRow>
+    <TableRow
+
+        >
+
+        <TextView
+
+            android:paddingRight="10dp"
+            android:text="Sadiq"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+
+        <TextView
+
+            android:text="sachy@gmail.com"
+            android:textSize="20dp"
+            android:textStyle="bold"
+
+            />
+
+
+        <TextView
+
+
+            android:text="014228111"
+            android:textSize="20dp"
+
+            android:textStyle="bold" />
+
+    </TableRow>
+
+    <TableRow
+
+        >
+
+        <TextView
+
+            android:paddingRight="10dp"
+            android:text="Souvon"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+
+        <TextView
+
+            android:text="ars89@gmail.com"
+            android:textSize="20dp"
+            android:textStyle="bold"
+
+            />
+
+
+        <TextView
+
+
+            android:text="015728258"
+            android:textSize="20dp"
+
+            android:textStyle="bold" />
+
+    </TableRow>
+
+    <TableRow
+
+        >
+
+        <TextView
+
+            android:paddingRight="10dp"
+            android:text="Chamok"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+
+        <TextView
+
+            android:text="hasan71@gmail.com"
+            android:textSize="20dp"
+            android:textStyle="bold"
+
+            />
+
+
+        <TextView
+
+
+            android:text="0192289070"
+            android:textSize="20dp"
+
+            android:textStyle="bold" />
+
+    </TableRow>
+    <TableRow
+
+        >
+
+        <TextView
+
+            android:paddingRight="10dp"
+            android:text="Rakib"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+
+        <TextView
+
+            android:text="rislam@gmail.com"
+            android:textSize="20dp"
+            android:textStyle="bold"
+
+            />
+
+
+        <TextView
+
+
+            android:text="0132987000"
+            android:textSize="20dp"
+
+            android:textStyle="bold" />
+
+    </TableRow>
+
+    <TableRow
+
+        >
+
+        <TextView
+
+            android:paddingRight="10dp"
+            android:text="Ishfaq"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+
+        <TextView
+
+            android:text="ishfaq94@gmail.com"
+            android:textSize="20dp"
+            android:textStyle="bold"
+
+            />
+
+
+        <TextView
+
+
+            android:text="0182289456"
+            android:textSize="20dp"
+
+            android:textStyle="bold" />
+
+    </TableRow>
+
+    <TableRow
+
+        >
+
+        <TextView
+
+            android:paddingRight="10dp"
+            android:text="Salman"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+
+        <TextView
+
+            android:text="schy95@gmail.com"
+            android:textSize="20dp"
+            android:textStyle="bold"
+
+            />
+
+
+        <TextView
+
+
+            android:text="0192289000"
+            android:textSize="20dp"
+
+            android:textStyle="bold" />
+
+    </TableRow>
+
+
+    <TableRow
+
+        >
+
+        <TextView
+
+            android:paddingRight="10dp"
+            android:text="rahim"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+
+        <TextView
+
+            android:text="rahim@gmail.com"
+            android:textSize="20dp"
+            android:textStyle="bold"
+
+            />
+
+
+        <TextView
+
+
+            android:text="0192289000"
+            android:textSize="20dp"
+
+            android:textStyle="bold" />
+
+    </TableRow>
+
+    <TableRow
+
+        >
+
+        <TextView
+
+            android:paddingRight="10dp"
+            android:text="Ranan"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+
+        <TextView
+
+            android:text="ranan@gmail.com"
+            android:textSize="20dp"
+            android:textStyle="bold"
+
+            />
+
+
+        <TextView
+
+
+            android:text="0132289020"
+            android:textSize="20dp"
+
+            android:textStyle="bold" />
+
+    </TableRow>
+
+
+
+
+
+
+
+
+
+</TableLayout>

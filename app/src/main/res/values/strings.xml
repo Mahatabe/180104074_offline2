@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">sd3_offline2</string>
+    <string name="userID">Enter Name</string>
+    <string name="userPass">Enter Passward</string>
+</resources>
